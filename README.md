@@ -1,4 +1,7 @@
-### Hi there 👋
+### WELCOME TO MY PERSONAL GITHUB!
+- I'm starting in this fabulous world of the programming and development
+- I'm studying in 42 Málaga Fundación Telefónica
+- I really want to learn and develop myself in this sector :)
 
 <!--
 **pedrotejero/pedrotejero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
